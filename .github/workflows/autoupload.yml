@@ -15,7 +15,7 @@ jobs:
         uses: arma-actions/workshop-upload@v1
         with:
           appId: 4000
-          itemId: 3795191392
+          itemId: 3733225070
           contentPath: ./data
           changelog: Autoupload, see changes in https://github.com/LoremsHat/school999-map/commits/main
         env:
